@@ -3,7 +3,7 @@
 
 Hello, I'm Haahooss, UI Designer & Front-end Developer based in Nanjing China.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Haahooss)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haahooss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Haahooss)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haahooss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
