@@ -1,7 +1,7 @@
 # 
-### Hi there,I'm [Haahooss](超链接地址 "https://github.com/Haahooss")👋 
+### Hi there,I'm [Haahoos](超链接地址 "https://github.com/Haahooss")👋 
 
-Hello, I'm Haahooss, UI Designer & Front-end Developer based in Nanjing China.
+Hello, I'm Haahoos, UI Designer & Front-end Developer based in Nanjing China.
 
 ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) 
 
@@ -13,4 +13,5 @@ Hello, I'm Haahooss, UI Designer & Front-end Developer based in Nanjing China.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haahooss&layout=compact"/>
 </div>
 
-- 😄 Continuous learning!🌱🌱🌱
+
+😄 Continuous learning!🌱🌱🌱
