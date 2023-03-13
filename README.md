@@ -4,7 +4,7 @@
 
 Hello, I'm Yixiang Zhang, UI Designer & Product & Front-end Developer based in Nanjing China.
 
-![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) 
+![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) ![Sketch](https://img.shields.io/badge/-Sketch_Plugin-f7b500?style=flat&logo=sketch&logoColor=black)  ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js)
 
 ### 👀 GitHub Stats
 
