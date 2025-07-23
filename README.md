@@ -28,7 +28,7 @@ Hello, I'm Yixiang Zhang,Designer & Developer based in Nanjing China.
 
 | End | Stack |
 | --- | --- |
-| ![][Design] | ![][Adobe] ![][Sketch] ![][Figma] ![][design-spline] ![][Cinema4D] ![][Stable Diffusion]  |
+| ![][Design] | ![][Adobe] ![][Sketch] ![][Figma] ![][spline] ![][Cinema4D] ![][Stable Diffusion]  |
 | ![][Frontend] | ![][React] ![][Antd] ![][Styled] ![][Three] |
 | ![][Backend] | ![][Node]  |
 | ![][Devops] | ![][GitHub Action] ![][Semantic] ![][Gitmoji] |
